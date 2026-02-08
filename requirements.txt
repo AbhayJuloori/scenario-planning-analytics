@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+sqlalchemy
+python-dateutil
+holidays
+streamlit
+plotly
+joblib

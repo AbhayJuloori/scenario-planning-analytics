@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+
+# Data / outputs
+/data/*.csv
+/data/*.db
+/reports/*.csv
+/models/*.joblib
+
+# OS
+.DS_Store
+
+# Streamlit
+.streamlit/
+
+# Editor
+.vscode/
+.idea/
