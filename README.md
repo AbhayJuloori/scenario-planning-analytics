@@ -119,7 +119,4 @@ urban-demand-planning-pipeline/
 
 ---
 
-## Notes
-- Data is synthetic (safe for GitHub).
-- You can replace the data with a real dataset if desired.
-- This project is built to show **end‑to‑end analytics**, not just modeling.
+
