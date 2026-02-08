@@ -1,6 +1,6 @@
 # Urban Demand Planning & Scenario Analytics Pipeline
 
-## What This Project Is (Simple Explanation)
+## What This Project Is 
 Cities and organizations get lots of requests every day (trash pickup issues, broken street lights, potholes, public safety calls, etc.). If they can **predict how many requests will come in**, they can plan staff, budget, and equipment better.
 
 This project builds a **prediction + planning pipeline** that:
